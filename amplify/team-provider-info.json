@@ -10,6 +10,11 @@
       "StackName": "amplify-amplifydynamodbbacke-staging-c533a",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:203918888846:stack/amplify-amplifydynamodbbacke-staging-c533a/b74d8d40-1508-11f0-adb6-0e17bc43fb77",
       "AmplifyAppId": "db539udbzd68m"
+    },
+    "categories": {
+      "auth": {
+        "amplifydynamodbbackeb52887c9": {}
+      }
     }
   }
 }
